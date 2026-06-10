@@ -1,0 +1,36 @@
+rust/src/core/editor_registry/detect.rs
+  s_adf2aed5bb198b::t_228356ec34514b 449-451,457-459
+rust/src/core/editor_registry/paths.rs
+  s_adf2aed5bb198b::t_228356ec34514b 133
+rust/src/uninstall/mod.rs
+  s_adf2aed5bb198b::t_228356ec34514b 54-58
+rust/src/rules_inject/targets.rs
+  s_adf2aed5bb198b::t_228356ec34514b 188-192
+rust/src/doctor/common.rs
+  s_adf2aed5bb198b::t_228356ec34514b 333-337
+rust/tests/setup_ci_smoke.rs
+  s_adf2aed5bb198b::t_228356ec34514b 503-510
+rust/src/rules_inject/detect.rs
+  s_adf2aed5bb198b::t_228356ec34514b 131-133,139-141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "0dfa5cdabd96eb3012f2268b51f96db6794cc4b7",
+  "prompts": {},
+  "humans": {
+    "h_a4834234958a5d": {
+      "author": "Jostein Austvik Jacobsen <jostein.jacobsen@nb.no>"
+    }
+  },
+  "sessions": {
+    "s_adf2aed5bb198b": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "f9739b84-3a8a-4db2-bc13-bf77ad2218b1",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "Jostein Austvik Jacobsen <jostein.jacobsen@nb.no>"
+    }
+  }
+}
